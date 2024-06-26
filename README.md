@@ -84,6 +84,12 @@
       <a target="_blank">
         <img align="left" alt="github" width="40px" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
       </a>
+      <a target="_blank">
+        <img align="left" alt="androidstudio" width="40px" title="AndroidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+      </a>
+      <a target="_blank">
+        <img align="left" alt="rstudio" width="40px" title="RStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
+      </a>
     </p>
   </div>
 </div>
