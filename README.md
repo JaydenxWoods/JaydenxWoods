@@ -30,8 +30,8 @@
     </a>
   </p>
 </div>
-
 <hr></hr>
+
 <!-- LANGUAGES AND TOOLS -->
 <div>
   <div dir="auto">
@@ -95,11 +95,11 @@
 </div>
 <br>
 <h1 dir="auto"></h1>
-<!-- PROJECTS -->
+<br>
 
-<!-- STATS -->
+<!-- PROJECTS -->
 <div>
-  <p dir="auto">
-   
-  </p>
+  <div>
+    <h3>Projects</h3>
+  </div>
 </div>
