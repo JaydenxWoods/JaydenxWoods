@@ -40,55 +40,55 @@
   <div>
     <p>
       <a target="_blank">
-        <img align="left" alt="java" width="40px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+        <img align="left" alt="java" width="30px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="html" width="40px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+        <img align="left" alt="html" width="30px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="css" width="40px" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+        <img align="left" alt="css" width="30px" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="javascript" width="40px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+        <img align="left" alt="javascript" width="30px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="python" width="40px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+        <img align="left" alt="python" width="30px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="csharp" width="40px" title="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+        <img align="left" alt="csharp" width="30px" title="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="php" width="40px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+        <img align="left" alt="php" width="30px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="xml" width="40px" title="XML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"/>
+        <img align="left" alt="xml" width="30px" title="XML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="sql" width="40px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+        <img align="left" alt="sql" width="30px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="mongodb" width="40px" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+        <img align="left" alt="mongodb" width="30px" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="oracle" width="40px" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+        <img align="left" alt="oracle" width="30px" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="nodejs" width="40px" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+        <img align="left" alt="nodejs" width="30px" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="react" width="40px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+        <img align="left" alt="react" width="30px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="git" width="40px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+        <img align="left" alt="git" width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="github" width="40px" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+        <img align="left" alt="github" width="30px" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="androidstudio" width="40px" title="AndroidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+        <img align="left" alt="androidstudio" width="30px" title="AndroidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
       </a>
       <a target="_blank">
-        <img align="left" alt="rstudio" width="40px" title="RStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
+        <img align="left" alt="rstudio" width="30px" title="RStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
       </a>
     </p>
   </div>
@@ -101,5 +101,12 @@
 <div>
   <div>
     <h3>Projects</h3>
+  </div>
+</div>
+<br>
+<!-- STATS -->
+<div>
+  <div>
+    <h3>Stats</h3>
   </div>
 </div>
