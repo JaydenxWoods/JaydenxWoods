@@ -28,6 +28,10 @@
     <a href="https://www.instagram.com/jaydenxwoods/" title="Follow me on Instagram">
       <img src="https://img.shields.io/badge/Instagram-salmon?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
     </a>
+    <!-- GMAIL -->
+    <a href="mailto:jaydenxxwoods@gmail.com" title="Send me an email">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+    </a>
   </p>
 </div>
 <hr></hr>
@@ -107,6 +111,10 @@
 <!-- STATS -->
 <div>
   <div>
-    <h3>Stats</h3>
+    <h3>GitHub Data</h3>
+    <div style="display: flex">
+      <img style="height: 180px:" src="https://github-readme-stats.vercel.app/api?username=JaydenxWoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+      <img style="height: 180px:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenxWoods&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    </div>
   </div>
 </div>
