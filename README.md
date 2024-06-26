@@ -1,16 +1,20 @@
-## Testing for my portfolio
+<!-- Name -->
+<h1>Jayden Woods</h1>
 
-<!--
-**JaydenxWoods/JaydenxWoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- job title -->
+<code>Digital Craftsmen (Full Stack Developer)</code>
 
-Here are some ideas to get you started:
+<!-- PROFILE PARAGRAPH -->
+<p>
+  As a passionate and motivated full-stack developer, I excel in transforming innovative ideas into functional, real-world       solutions. With expertise spanning web development, machine learning, abstract data types, UI design, and databases, I am      adept at building projects from the ground up. My commitment to continuous learning and problem-solving keeps me at the        forefront of technological advancements, enabling me to tackle new challenges with confidence. I thrive in the dynamic         landscape of technology and innovation, always eager to expand my skill set and deliver impactful digital experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- LINKS -->
+<p align="left" dir="auto">
+  
+</p>
+<!-- LANGUAGES AND TOOLS -->
+
+<!-- PROJECTS -->
+
+<!-- STATS OR SOMETHING ELSE -->
