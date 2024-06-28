@@ -36,6 +36,15 @@
 </div>
 <hr></hr>
 
+<div>
+  <ul>
+    <li><p>Im currently studying at the University of Waikato.</p></li>
+    <li><p>Im currently advancing my knowledge in Machine Learning - <b>Python, Jupiter.</b></p></li>
+    <li><p>Seeking to collaborate with a company in a full-stack developer role.</p></li>
+    <li><p></p></li>
+  </ul>
+</div>
+
 <!-- LANGUAGES AND TOOLS -->
 <div>
   <div dir="auto">
