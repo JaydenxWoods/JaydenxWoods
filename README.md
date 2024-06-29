@@ -36,6 +36,12 @@
 </div>
 <hr></hr>
 
+<!-- Profile view counter -->
+<div>
+  <img align="right" src="https://komarev.com/ghpvc/?username=JaydenxWoods&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter">
+</div>
+
+<!-- What im current doing section -->
 <div>
   <div>
     <h3>💡 What I'm Currently Doing</h3>
@@ -66,17 +72,10 @@
 <h1 dir="auto"></h1>
 <br>
 
-<!-- PROJECTS -->
-<div>
-  <div>
-    <h3>Projects</h3>
-  </div>
-</div>
-<br>
 <!-- STATS -->
 <div>
   <div>
-    <h3>GitHub Data</h3>
+    <h3>📊 Stats</h3>
     <div style="display: flex">
       <img style="height: 180px:" src="https://github-readme-stats.vercel.app/api?username=JaydenxWoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
       <img style="height: 180px:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenxWoods&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
