@@ -74,11 +74,8 @@
 
 <!-- STATS -->
 <div>
-  <div>
-    <h3>📊 Stats</h3>
     <div style="display: flex">
       <img style="height: 180px:" src="https://github-readme-stats.vercel.app/api?username=JaydenxWoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
       <img style="height: 180px:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenxWoods&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
     </div>
-  </div>
 </div>
